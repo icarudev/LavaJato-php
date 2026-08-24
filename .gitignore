@@ -1,0 +1,12 @@
+config/database.php
+
+.env
+.env.*
+
+*.sql
+!database_demo.sql
+
+.vscode/
+
+*.log
+*.tmp
