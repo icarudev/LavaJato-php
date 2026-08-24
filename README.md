@@ -1,11 +1,21 @@
-Instalação
+# LavaRapido
 
-1. Crie um banco MySQL chamado lavarapido.
-2. Importe database.sql.
-3. Copie config/database.example.php para config/database.php.
-4. Configure suas credenciais do MySQL.
-5. Acesse login.php.
+Sistema web para gerenciamento de veículos e serviços de um lava-rápido.
 
-Usuário de demonstração:
-usuario: admin
-senha: 123456
+## Tecnologias
+
+- PHP
+- MySQL
+- HTML
+- CSS
+- Bootstrap
+
+## Funcionalidades
+
+- Login de usuários
+- Cadastro de veículos
+- Visualização de veículos cadastrados
+- Edição de registros
+- Exclusão de registros
+- Organização por categorias
+- Validação de dados
